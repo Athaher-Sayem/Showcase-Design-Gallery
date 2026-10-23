@@ -4,7 +4,7 @@ window.SHOWCASE_PROJECTS = [
     "url": "https://github.com/Athaher-Sayem/AI_Health_Checkup",
     "visibility": "public",
     "category": "Health-information application",
-    "purpose": "Educational medical-report explainer with deterministic validation against report-printed reference ranges and optional AI prose",
+    "purpose": "Upload is not connected in this preview. Explore an illustrative explanation of what a report reader might show.",
     "style": "Quiet health-information guide",
     "palette": "Lilac / midnight blue / citrus yellow",
     "fonts": "Manrope / DM Sans / Space Mono",
@@ -12,7 +12,7 @@ window.SHOWCASE_PROJECTS = [
     "showcasePath": "showcases/AI_Health_Checkup/index.html",
     "screenshot": "showcases/AI_Health_Checkup/assets/screenshots/desktop.png",
     "branchUrl": "https://github.com/Athaher-Sayem/AI_Health_Checkup/tree/Shocase_design",
-    "commitUrl": "https://github.com/Athaher-Sayem/AI_Health_Checkup/commit/d4c117866a3c9ce0396de9789101d3a4601cf105",
+    "commitUrl": "https://github.com/Athaher-Sayem/AI_Health_Checkup/commit/3bf63a84c0bd64c5a0a0f79fbd6722adaba78203",
     "limitation": null
   },
   {
@@ -20,7 +20,7 @@ window.SHOWCASE_PROJECTS = [
     "url": "https://github.com/Athaher-Sayem/architecture-overview",
     "visibility": "public",
     "category": "Architecture document",
-    "purpose": "Reference document for a proposed multi-service system",
+    "purpose": "An architecture map for exploring components, data flow and system boundaries.",
     "style": "Cartographic editorial reading room",
     "palette": "Paper white / ink / red / pale cyan",
     "fonts": "Newsreader / IBM Plex Sans / IBM Plex Mono",
@@ -28,7 +28,7 @@ window.SHOWCASE_PROJECTS = [
     "showcasePath": "showcases/architecture-overview/index.html",
     "screenshot": "showcases/architecture-overview/assets/screenshots/desktop.png",
     "branchUrl": "https://github.com/Athaher-Sayem/architecture-overview/tree/Shocase_design",
-    "commitUrl": "https://github.com/Athaher-Sayem/architecture-overview/commit/e185e48ac4446fb4cc066d9142ce0ffa7dc2bfd1",
+    "commitUrl": "https://github.com/Athaher-Sayem/architecture-overview/commit/819898ea5cb7c374e4d3adbe8dea9cb13c1641cf",
     "limitation": null
   },
   {
@@ -36,7 +36,7 @@ window.SHOWCASE_PROJECTS = [
     "url": "https://github.com/Athaher-Sayem/Athaher-Sayem",
     "visibility": "public",
     "category": "Public GitHub profile",
-    "purpose": "Public profile README introducing Athaher Sayem, CSE studies and listed developer interests",
+    "purpose": "Software projects, engineering interests and learning in one personal homepage.",
     "style": "Typographic personal editorial poster",
     "palette": "Mineral paper / oxford blue / acid peach",
     "fonts": "Syne / DM Sans / IBM Plex Mono",
@@ -44,7 +44,7 @@ window.SHOWCASE_PROJECTS = [
     "showcasePath": "showcases/Athaher-Sayem/index.html",
     "screenshot": "showcases/Athaher-Sayem/assets/screenshots/desktop.png",
     "branchUrl": "https://github.com/Athaher-Sayem/Athaher-Sayem/tree/Shocase_design",
-    "commitUrl": "https://github.com/Athaher-Sayem/Athaher-Sayem/commit/c8dec717ff432ba6750406123b4e878aeccb8ec9",
+    "commitUrl": "https://github.com/Athaher-Sayem/Athaher-Sayem/commit/4b9691d3041a001b6970aa330ea87b8f349941f8",
     "limitation": null
   },
   {
@@ -52,7 +52,7 @@ window.SHOWCASE_PROJECTS = [
     "url": "https://github.com/Athaher-Sayem/Auto_Backup_System",
     "visibility": "public",
     "category": "Local backup scripts",
-    "purpose": "Python and Bash versions of a local backup tool; Bash entrypoint offers backup and restore choices",
+    "purpose": "A local backup tool preview showing the stages of a safe backup and restore workflow.",
     "style": "Operational field guide",
     "palette": "Cool mist / navy / sea glass / muted orange",
     "fonts": "Outfit / DM Sans / IBM Plex Mono",
@@ -60,7 +60,7 @@ window.SHOWCASE_PROJECTS = [
     "showcasePath": "showcases/Auto_Backup_System/index.html",
     "screenshot": "showcases/Auto_Backup_System/assets/screenshots/desktop.png",
     "branchUrl": "https://github.com/Athaher-Sayem/Auto_Backup_System/tree/Shocase_design",
-    "commitUrl": "https://github.com/Athaher-Sayem/Auto_Backup_System/commit/70ce01b29f4ffd57df8a7ef0d205f2ba879a8279",
+    "commitUrl": "https://github.com/Athaher-Sayem/Auto_Backup_System/commit/c9f674fd31fa7e709c21964785bf2cf99fb22c92",
     "limitation": null
   },
   {
@@ -68,7 +68,7 @@ window.SHOWCASE_PROJECTS = [
     "url": "https://github.com/Athaher-Sayem/Bank-Managemnt-Project",
     "visibility": "public",
     "category": "Windows console coursework",
-    "purpose": "Second-semester file-backed account and transaction menu program; not an online banking service",
+    "purpose": "A local coursework program for accounts and transaction records, not an online bank.",
     "style": "Illustrated coursework ledger",
     "palette": "Deep teal / paper / copper",
     "fonts": "Fraunces / DM Sans",
@@ -76,7 +76,7 @@ window.SHOWCASE_PROJECTS = [
     "showcasePath": "showcases/Bank-Managemnt-Project/index.html",
     "screenshot": "showcases/Bank-Managemnt-Project/assets/screenshots/desktop.png",
     "branchUrl": "https://github.com/Athaher-Sayem/Bank-Managemnt-Project/tree/Shocase_design",
-    "commitUrl": "https://github.com/Athaher-Sayem/Bank-Managemnt-Project/commit/e536bbb0df9195db0401a6d3a610330ad9faaa46",
+    "commitUrl": "https://github.com/Athaher-Sayem/Bank-Managemnt-Project/commit/61180e7210e3ca32c5fce3bf28de4f6d362c2a78",
     "limitation": "Design-only; contains no customer records, credentials or live banking features."
   },
   {
@@ -84,7 +84,7 @@ window.SHOWCASE_PROJECTS = [
     "url": "https://github.com/Athaher-Sayem/CNN_CIFAR_10",
     "visibility": "public",
     "category": "Machine-learning notebook",
-    "purpose": "PyTorch CNN training on CIFAR-10 image classes",
+    "purpose": "A PyTorch image-classification notebook with training and evaluation steps.",
     "style": "Editorial research field note",
     "palette": "Paper / ink / coral / slate blue",
     "fonts": "Instrument Serif / DM Sans / IBM Plex Mono",
@@ -92,7 +92,7 @@ window.SHOWCASE_PROJECTS = [
     "showcasePath": "showcases/CNN_CIFAR_10/index.html",
     "screenshot": "showcases/CNN_CIFAR_10/assets/screenshots/desktop.png",
     "branchUrl": "https://github.com/Athaher-Sayem/CNN_CIFAR_10/tree/Shocase_design",
-    "commitUrl": "https://github.com/Athaher-Sayem/CNN_CIFAR_10/commit/defd78dde27a27bcaa876cd72ddd6dbb88f60530",
+    "commitUrl": "https://github.com/Athaher-Sayem/CNN_CIFAR_10/commit/f2132fb5c83de897ea00b697a2ace9d6432430a8",
     "limitation": null
   },
   {
@@ -100,7 +100,7 @@ window.SHOWCASE_PROJECTS = [
     "url": "https://github.com/Athaher-Sayem/Drinks",
     "visibility": "public",
     "category": "Cocktail search experiment",
-    "purpose": "Single-page JavaScript cocktail search, details and cart experiment using TheCocktailDB",
+    "purpose": "Search cocktail recipes and explore ingredients in this browser experiment.",
     "style": "Expressive after-dark tasting menu",
     "palette": "Plum / peach / cream / mint",
     "fonts": "Fraunces / DM Sans / Space Mono",
@@ -108,7 +108,7 @@ window.SHOWCASE_PROJECTS = [
     "showcasePath": "showcases/Drinks/index.html",
     "screenshot": "showcases/Drinks/assets/screenshots/desktop.png",
     "branchUrl": "https://github.com/Athaher-Sayem/Drinks/tree/Shocase_design",
-    "commitUrl": "https://github.com/Athaher-Sayem/Drinks/commit/3f0368731881684687592551b9c572c5ff753dca",
+    "commitUrl": "https://github.com/Athaher-Sayem/Drinks/commit/235976c534cbb2e6b51b8f6397572f7f294ed065",
     "limitation": null
   },
   {
@@ -116,7 +116,7 @@ window.SHOWCASE_PROJECTS = [
     "url": "https://github.com/Athaher-Sayem/Dynamic-Programming",
     "visibility": "public",
     "category": "C++ algorithm practice",
-    "purpose": "C++ practice snippets for LIS, coin change and rod cutting",
+    "purpose": "Practice dynamic-programming patterns with problems and worked examples.",
     "style": "Playful educational staircase",
     "palette": "Sand / dark teal / aqua / orange",
     "fonts": "Space Grotesk / DM Sans / Space Mono",
@@ -124,7 +124,7 @@ window.SHOWCASE_PROJECTS = [
     "showcasePath": "showcases/Dynamic-Programming/index.html",
     "screenshot": "showcases/Dynamic-Programming/assets/screenshots/desktop.png",
     "branchUrl": "https://github.com/Athaher-Sayem/Dynamic-Programming/tree/Shocase_design",
-    "commitUrl": "https://github.com/Athaher-Sayem/Dynamic-Programming/commit/00f8611b6fb57cef754b3893f7f88efafc6f5957",
+    "commitUrl": "https://github.com/Athaher-Sayem/Dynamic-Programming/commit/af661a1cf33c44c7c5ad11d0805b8ba5da1b8552",
     "limitation": null
   },
   {
@@ -132,7 +132,7 @@ window.SHOWCASE_PROJECTS = [
     "url": "https://github.com/Athaher-Sayem/Elden_RING",
     "visibility": "public",
     "category": "Fantasy character database",
-    "purpose": "Explore the characters, reviews and battle simulations in this Elden Ring-inspired Flask database.",
+    "purpose": "A fan-made character archive for browsing profiles, reviews and hypothetical battles.",
     "style": "Art Deco",
     "palette": "#141c23 / #ecd9b2 / #ceb27d",
     "fonts": "Georgia,serif",
@@ -140,7 +140,7 @@ window.SHOWCASE_PROJECTS = [
     "showcasePath": "showcases/Elden_RING/index.html",
     "screenshot": "showcases/Elden_RING/assets/screenshots/desktop.png",
     "branchUrl": "https://github.com/Athaher-Sayem/Elden_RING/tree/Shocase_design",
-    "commitUrl": "https://github.com/Athaher-Sayem/Elden_RING/commit/8a21c4bd4a39588c20230a1ca2b6b0415d5edee3",
+    "commitUrl": "https://github.com/Athaher-Sayem/Elden_RING/commit/e6da3a7bb994fc71ac4b82728939cdf08af5e058",
     "limitation": "Independent static design; source-linked actions require the running original project."
   },
   {
@@ -148,7 +148,7 @@ window.SHOWCASE_PROJECTS = [
     "url": "https://github.com/Athaher-Sayem/Event-Management",
     "visibility": "public",
     "category": "Event discovery",
-    "purpose": "Discover and organize gatherings",
+    "purpose": "Browse sample gatherings by interest and discover how the event experience could look.",
     "style": "Immersive event image + glass",
     "palette": "Charcoal / rose / mint",
     "fonts": "Georgia / Arial",
@@ -156,7 +156,7 @@ window.SHOWCASE_PROJECTS = [
     "showcasePath": "showcases/Event-Management/index.html",
     "screenshot": "showcases/Event-Management/assets/screenshots/desktop.png",
     "branchUrl": "https://github.com/Athaher-Sayem/Event-Management/tree/Shocase_design",
-    "commitUrl": "https://github.com/Athaher-Sayem/Event-Management/commit/3652425c31c266c93a943e7f96d5a8e4fc05165a",
+    "commitUrl": "https://github.com/Athaher-Sayem/Event-Management/commit/4755cdb730a493b9dbb6d28fb932e0a24584ee39",
     "limitation": "Sign-in is a source-backed preview; no live events or registration."
   },
   {
@@ -164,7 +164,7 @@ window.SHOWCASE_PROJECTS = [
     "url": "https://github.com/Athaher-Sayem/Library-Management",
     "visibility": "public",
     "category": "Java console library",
-    "purpose": "A welcoming entry to a small Java library-management exercise.",
+    "purpose": "A catalog-inspired preview of the Java console library workflow.",
     "style": "Minimal vintage",
     "palette": "#f4f0e4 / #272a25 / #aa6b44",
     "fonts": "Georgia,serif",
@@ -172,7 +172,7 @@ window.SHOWCASE_PROJECTS = [
     "showcasePath": "showcases/Library-Management/index.html",
     "screenshot": "showcases/Library-Management/assets/screenshots/desktop.png",
     "branchUrl": "https://github.com/Athaher-Sayem/Library-Management/tree/Shocase_design",
-    "commitUrl": "https://github.com/Athaher-Sayem/Library-Management/commit/aaef22481d9d72f20bb32687d105f87070173fb6",
+    "commitUrl": "https://github.com/Athaher-Sayem/Library-Management/commit/d71908b042ad19aff23cbc9d90a294f76e016a74",
     "limitation": "Independent static design; source-linked actions require the running original project."
   },
   {
@@ -180,7 +180,7 @@ window.SHOWCASE_PROJECTS = [
     "url": "https://github.com/Athaher-Sayem/ML-Train",
     "visibility": "public",
     "category": "Machine-learning notebooks",
-    "purpose": "Browse machine-learning exercises, midterms and deep-learning practice by topic.",
+    "purpose": "Machine-learning and deep-learning practice organized as a study library.",
     "style": "Monochromatic",
     "palette": "#f5f5f3 / #171817 / #737574",
     "fonts": "Arial,sans-serif",
@@ -188,7 +188,7 @@ window.SHOWCASE_PROJECTS = [
     "showcasePath": "showcases/ML-Train/index.html",
     "screenshot": "showcases/ML-Train/assets/screenshots/desktop.png",
     "branchUrl": "https://github.com/Athaher-Sayem/ML-Train/tree/Shocase_design",
-    "commitUrl": "https://github.com/Athaher-Sayem/ML-Train/commit/dca03078a6eab1838275724848a47eba0cc58773",
+    "commitUrl": "https://github.com/Athaher-Sayem/ML-Train/commit/d2f9ee6e39dd4db8780d8dcff36ba3d08d362057",
     "limitation": "Independent static design; source-linked actions require the running original project."
   },
   {
@@ -196,7 +196,7 @@ window.SHOWCASE_PROJECTS = [
     "url": "https://github.com/Athaher-Sayem/Phimart",
     "visibility": "public",
     "category": "Django commerce API",
-    "purpose": "Django REST API for products, categories, carts and orders",
+    "purpose": "A sample storefront for a Django commerce backend handling products, users, carts and orders.",
     "style": "Technical poster / developer portal",
     "palette": "Ink / acid green / blue / yellow",
     "fonts": "Archivo Black / DM Sans / Space Mono",
@@ -204,7 +204,7 @@ window.SHOWCASE_PROJECTS = [
     "showcasePath": "showcases/Phimart/index.html",
     "screenshot": "showcases/Phimart/assets/screenshots/desktop.png",
     "branchUrl": "https://github.com/Athaher-Sayem/Phimart/tree/Shocase_design",
-    "commitUrl": "https://github.com/Athaher-Sayem/Phimart/commit/19ea0a4d9877a624263a840e56c35508c94ea241",
+    "commitUrl": "https://github.com/Athaher-Sayem/Phimart/commit/e549b2e163393cbc76678e5506969e50d71a9328",
     "limitation": null
   },
   {
@@ -212,7 +212,7 @@ window.SHOWCASE_PROJECTS = [
     "url": "https://github.com/Athaher-Sayem/Phitron",
     "visibility": "public",
     "category": "Coding practice",
-    "purpose": "C, C++, algorithms and graph exercises",
+    "purpose": "Pick a topic, open an exercise and work toward a clearer solution.",
     "style": "Neo-brutalist code practice",
     "palette": "Ink / tangerine / yellow",
     "fonts": "Arial",
@@ -220,7 +220,7 @@ window.SHOWCASE_PROJECTS = [
     "showcasePath": "showcases/Phitron/index.html",
     "screenshot": "showcases/Phitron/assets/screenshots/desktop.png",
     "branchUrl": "https://github.com/Athaher-Sayem/Phitron/tree/Shocase_design",
-    "commitUrl": "https://github.com/Athaher-Sayem/Phitron/commit/736b025e0fc9bf18992580761e16615e39540bb6",
+    "commitUrl": "https://github.com/Athaher-Sayem/Phitron/commit/175c89fed05d3aac347cf83e13e27ea7fdc4aae4",
     "limitation": "No online judge or execution service."
   },
   {
@@ -228,7 +228,7 @@ window.SHOWCASE_PROJECTS = [
     "url": "https://github.com/Athaher-Sayem/Port",
     "visibility": "public",
     "category": "Single-page portfolio",
-    "purpose": "Portfolio HTML self-describing education, skills and two project concepts with placeholder links",
+    "purpose": "An introduction to education, technical interests and selected projects.",
     "style": "Folded-paper editorial monogram",
     "palette": "Berry / lavender / cream / yellow",
     "fonts": "Fraunces / DM Sans",
@@ -236,7 +236,7 @@ window.SHOWCASE_PROJECTS = [
     "showcasePath": "showcases/Port/index.html",
     "screenshot": "showcases/Port/assets/screenshots/desktop.png",
     "branchUrl": "https://github.com/Athaher-Sayem/Port/tree/Shocase_design",
-    "commitUrl": "https://github.com/Athaher-Sayem/Port/commit/d648ba68d73a2a455b9226e6416f9c9e908b7502",
+    "commitUrl": "https://github.com/Athaher-Sayem/Port/commit/3511b7562df89cea841f8d21f402f70ae064ce0a",
     "limitation": "Self-described portfolio text; project demo, social, CV and contact links in original are placeholders."
   },
   {
@@ -244,7 +244,7 @@ window.SHOWCASE_PROJECTS = [
     "url": "https://github.com/Athaher-Sayem/Portfolio",
     "visibility": "public",
     "category": "Developer portfolio",
-    "purpose": "A developer portfolio shaped around full-stack work, algorithms and teaching interests described in its source.",
+    "purpose": "A developer portfolio about full-stack projects, algorithms and teaching.",
     "style": "Asymmetrical",
     "palette": "#e8e6db / #242e2c / #b67450",
     "fonts": "Georgia,serif",
@@ -252,7 +252,7 @@ window.SHOWCASE_PROJECTS = [
     "showcasePath": "showcases/Portfolio/index.html",
     "screenshot": "showcases/Portfolio/assets/screenshots/desktop.png",
     "branchUrl": "https://github.com/Athaher-Sayem/Portfolio/tree/Shocase_design",
-    "commitUrl": "https://github.com/Athaher-Sayem/Portfolio/commit/41316c912403c6e1e4eb690908d32d6df9814348",
+    "commitUrl": "https://github.com/Athaher-Sayem/Portfolio/commit/0673d0c6d742a3d027d5e88b50927eb78a465d46",
     "limitation": "Independent static design; source-linked actions require the running original project."
   },
   {
@@ -260,7 +260,7 @@ window.SHOWCASE_PROJECTS = [
     "url": "https://github.com/Athaher-Sayem/Some-Random",
     "visibility": "public",
     "category": "C++ practice snippets",
-    "purpose": "A compact shelf of standalone C++ exercises on lists, linked lists and comparisons.",
+    "purpose": "A compact practice desk for three standalone C++ console exercises.",
     "style": "Brutalism",
     "palette": "#f7edca / #161713 / #fa6742",
     "fonts": "Arial,sans-serif",
@@ -268,7 +268,7 @@ window.SHOWCASE_PROJECTS = [
     "showcasePath": "showcases/Some-Random/index.html",
     "screenshot": "showcases/Some-Random/assets/screenshots/desktop.png",
     "branchUrl": "https://github.com/Athaher-Sayem/Some-Random/tree/Shocase_design",
-    "commitUrl": "https://github.com/Athaher-Sayem/Some-Random/commit/c9cf5291102f0aeddf65fa52432ac54420cf8c57",
+    "commitUrl": "https://github.com/Athaher-Sayem/Some-Random/commit/00768735bc0b1118b4dca951119a8648e112fe4a",
     "limitation": "Independent static design; source-linked actions require the running original project."
   },
   {
@@ -276,7 +276,7 @@ window.SHOWCASE_PROJECTS = [
     "url": "https://github.com/Athaher-Sayem/Student_Management",
     "visibility": "public",
     "category": "Python student console",
-    "purpose": "A Python console program for keeping a small in-memory student list.",
+    "purpose": "A sample view of an in-memory Python student-management console program.",
     "style": "Neomorphism",
     "palette": "#e2e9e2 / #254438 / #cce3d0",
     "fonts": "Trebuchet MS,Arial,sans-serif",
@@ -284,7 +284,7 @@ window.SHOWCASE_PROJECTS = [
     "showcasePath": "showcases/Student_Management/index.html",
     "screenshot": "showcases/Student_Management/assets/screenshots/desktop.png",
     "branchUrl": "https://github.com/Athaher-Sayem/Student_Management/tree/Shocase_design",
-    "commitUrl": "https://github.com/Athaher-Sayem/Student_Management/commit/dce4900484b13266a1ed88aca84263bb4adaae9f",
+    "commitUrl": "https://github.com/Athaher-Sayem/Student_Management/commit/1b129270b3747560f38f5ec73a3b79b9bd6650ec",
     "limitation": "Independent static design; source-linked actions require the running original project."
   }
 ];
