@@ -3,8 +3,8 @@ window.SHOWCASE_PROJECTS = [
     "name": "AI_Health_Checkup",
     "url": "https://github.com/Athaher-Sayem/AI_Health_Checkup",
     "visibility": "public",
-    "category": "Health-information application",
-    "purpose": "Upload is not connected in this preview. Explore an illustrative explanation of what a report reader might show.",
+    "category": "Health-report explainer",
+    "purpose": "Safely extracts values, compares them with report-printed ranges, and explains results without diagnosing. Upload is local-only in this static preview.",
     "style": "Quiet health-information guide",
     "palette": "Lilac / midnight blue / citrus yellow",
     "fonts": "Manrope / DM Sans / Space Mono",
@@ -12,8 +12,8 @@ window.SHOWCASE_PROJECTS = [
     "showcasePath": "showcases/AI_Health_Checkup/index.html",
     "screenshot": "showcases/AI_Health_Checkup/assets/screenshots/desktop.png",
     "branchUrl": "https://github.com/Athaher-Sayem/AI_Health_Checkup/tree/Shocase_design",
-    "commitUrl": "https://github.com/Athaher-Sayem/AI_Health_Checkup/commit/3bf63a84c0bd64c5a0a0f79fbd6722adaba78203",
-    "limitation": null
+    "commitUrl": "https://github.com/Athaher-Sayem/AI_Health_Checkup/commit/b9558ce720e36439ef431a81ecbdb4b0796537e8",
+    "limitation": "Upload and AI explanation are not connected; fictional results only."
   },
   {
     "name": "architecture-overview",
@@ -195,8 +195,8 @@ window.SHOWCASE_PROJECTS = [
     "name": "Phimart",
     "url": "https://github.com/Athaher-Sayem/Phimart",
     "visibility": "public",
-    "category": "Django commerce API",
-    "purpose": "A sample storefront for a Django commerce backend handling products, users, carts and orders.",
+    "category": "Phimart commerce API",
+    "purpose": "Developer explorer for Django REST product, category, cart, nested cart-item, order, and API-root routes.",
     "style": "Technical poster / developer portal",
     "palette": "Ink / acid green / blue / yellow",
     "fonts": "Archivo Black / DM Sans / Space Mono",
@@ -204,8 +204,8 @@ window.SHOWCASE_PROJECTS = [
     "showcasePath": "showcases/Phimart/index.html",
     "screenshot": "showcases/Phimart/assets/screenshots/desktop.png",
     "branchUrl": "https://github.com/Athaher-Sayem/Phimart/tree/Shocase_design",
-    "commitUrl": "https://github.com/Athaher-Sayem/Phimart/commit/e549b2e163393cbc76678e5506969e50d71a9328",
-    "limitation": null
+    "commitUrl": "https://github.com/Athaher-Sayem/Phimart/commit/51e2e3f0e86d799d083a70730e4e87e7067ae18f",
+    "limitation": "Requests and response bodies are local samples only; authentication and live server are not connected."
   },
   {
     "name": "Phitron",
