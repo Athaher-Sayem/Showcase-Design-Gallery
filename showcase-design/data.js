@@ -147,8 +147,8 @@ window.SHOWCASE_PROJECTS = [
     "name": "Event-Management",
     "url": "https://github.com/Athaher-Sayem/Event-Management",
     "visibility": "public",
-    "category": "Event discovery",
-    "purpose": "Browse sample gatherings by interest and discover how the event experience could look.",
+    "category": "Event discovery and RSVP",
+    "purpose": "Browse events by category, date, and location; organizers create event records and participants RSVP.",
     "style": "Immersive event image + glass",
     "palette": "Charcoal / rose / mint",
     "fonts": "Georgia / Arial",
@@ -156,7 +156,7 @@ window.SHOWCASE_PROJECTS = [
     "showcasePath": "showcases/Event-Management/index.html",
     "screenshot": "showcases/Event-Management/assets/screenshots/desktop.png",
     "branchUrl": "https://github.com/Athaher-Sayem/Event-Management/tree/Shocase_design",
-    "commitUrl": "https://github.com/Athaher-Sayem/Event-Management/commit/4755cdb730a493b9dbb6d28fb932e0a24584ee39",
+    "commitUrl": "https://github.com/Athaher-Sayem/Event-Management/commit/2191af0df1ac5a364229b220b1dced29bfae2530",
     "limitation": "Sign-in is a source-backed preview; no live events or registration."
   },
   {
